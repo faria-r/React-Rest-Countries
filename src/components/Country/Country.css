@@ -1,0 +1,12 @@
+.country{
+    background-color: bisque;
+    border: 2px solid coral;
+    border-radius: 25px;
+    box-shadow: inset 15px 12px 23px indianred;
+    padding: 15px;
+    margin: 20px;
+    color: darkred;
+}
+.country img{
+    width: 150px;
+}
